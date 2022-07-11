@@ -84,3 +84,10 @@ zerotier-one /var/lib/zerotier-one
 - 20211206 - Add FAQ section.
 - 20210904 - Update peer's instructions.
 - 20210902 - First Release.
+
+
+## 其他参考链接
+https://gump.cloud/
+https://post.smzdm.com/p/akx70kwe/
+
+
